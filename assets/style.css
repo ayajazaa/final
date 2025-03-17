@@ -230,6 +230,7 @@ nav{
             align-items: center;
             position: relative;
             bottom: 16px;
+            box-shadow: 0 4px 20px #0000001A;
             .content{
                 display: flex;
                 justify-content: center;
